@@ -1,0 +1,2 @@
+# utl_extending_the_macro_language_with_datastep_arrays_at_macro_execution_time
+Extending the macro language with datastep arrays at macro execution time.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
